@@ -1,3 +1,4 @@
 # kutyel.github.io
 
-Personal website made with Ghost
+Personal website made with Ghost.
+
